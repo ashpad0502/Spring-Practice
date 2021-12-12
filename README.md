@@ -1,1 +1,1 @@
-Basic CRM app with Spring MVC
+Spring practice
